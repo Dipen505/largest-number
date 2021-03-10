@@ -9,7 +9,7 @@ function largestNumber(num) {
     }
     return number;
 }
-var array = [23, 4, 54, 23, 574, 56, 76];
+var array = [23, 4, 54, 23, 574, 56, 76]; // This is array
 var output = largestNumber(array);
 console.log(output);
 
